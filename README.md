@@ -29,7 +29,9 @@
  ## Github Stats
  
  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=danielstmg&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=danielstmg&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=danielstmg&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielstmg&theme=blueberry_duo"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielstmg&layout=compact&theme=github_dark"/>
  
  ## Programming Languages
 
